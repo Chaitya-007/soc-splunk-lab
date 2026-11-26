@@ -1,0 +1,67 @@
+# SPL queries for the SOC lab (index=soc_lab). Field names match data/sample/*.json
+# after Splunk's JSON search-time extraction. Written against the sample data;
+# check each one in your own Splunk and adjust field names if yours differ.
+
+# ---------------------------------------------------------------------------
+# 1. Failed logons by source IP (brute-force triage)
+#    Why: one IP with many failures against several accounts is the classic brute-force shape.
+# ---------------------------------------------------------------------------
+index=soc_lab sourcetype=windows:security EventCode=4625
+| stats count AS failures dc(TargetUserName) AS accounts_targeted min(_time) AS first_seen max(_time) AS last_seen BY IpAddress
+| where failures >= 10
+| eval first_seen=strftime(first_seen,"%F %T"), last_seen=strftime(last_seen,"%F %T")
+| sort - failures
+
+# ---------------------------------------------------------------------------
+# 2. Successful logon after repeated failures from the same IP
+#    Why: failures alone are noise; failures followed by a success mean possible compromise.
+# ---------------------------------------------------------------------------
+index=soc_lab sourcetype=windows:security (EventCode=4625 OR EventCode=4624)
+| stats count(eval(EventCode=4625)) AS failures count(eval(EventCode=4624)) AS successes values(TargetUserName) AS accounts BY IpAddress
+| where failures >= 10 AND successes >= 1
+
+# ---------------------------------------------------------------------------
+# 3. Encoded PowerShell and rare processes
+#    Why: attackers hide commands with -enc; rare processes on a server are worth a look.
+# ---------------------------------------------------------------------------
+index=soc_lab sourcetype=windows:security EventCode=4688 CommandLine="*-enc*"
+| table _time Computer SubjectUserName ParentProcessName CommandLine
+
+index=soc_lab sourcetype=windows:security EventCode=4688
+| rare limit=10 NewProcessName
+
+# ---------------------------------------------------------------------------
+# 4. Failed logons over time (time-based aggregation)
+#    Why: a spike on the chart shows when an attack started and how long it lasted.
+# ---------------------------------------------------------------------------
+index=soc_lab sourcetype=windows:security EventCode=4625
+| timechart span=5m count AS failed_logons
+
+# ---------------------------------------------------------------------------
+# 5. Okta MFA push fatigue
+#    Why: many denied pushes for one user in a short time means someone is spamming approvals.
+# ---------------------------------------------------------------------------
+index=soc_lab sourcetype=okta:system eventType="user.mfa.okta_verify.deny_push"
+| bin _time span=10m
+| stats count AS denied_pushes values(client.ipAddress) AS src_ip BY _time actor.alternateId
+| where denied_pushes >= 3
+
+# ---------------------------------------------------------------------------
+# 6. Okta impossible travel (city change in under an hour)
+#    Why: a person cannot be in Pune and Frankfurt 40 minutes apart.
+# ---------------------------------------------------------------------------
+index=soc_lab sourcetype=okta:system eventType="user.session.start" outcome.result=SUCCESS
+| rename actor.alternateId AS user, client.geographicalContext.city AS city, client.ipAddress AS src_ip
+| sort 0 user _time
+| streamstats current=f window=1 last(_time) AS prev_time last(city) AS prev_city BY user
+| where isnotnull(prev_city) AND city!=prev_city AND (_time-prev_time) < 3600
+| eval minutes_apart=round((_time-prev_time)/60)
+| table _time user prev_city city src_ip minutes_apart
+
+# ---------------------------------------------------------------------------
+# 7. AWS access key used from more than one IP
+#    Why: a key that suddenly appears from a new IP may have leaked.
+# ---------------------------------------------------------------------------
+index=soc_lab sourcetype=aws:cloudtrail
+| stats count dc(sourceIPAddress) AS ips values(sourceIPAddress) AS source_ips values(eventName) AS actions BY userIdentity.accessKeyId userIdentity.userName
+| where ips > 1
