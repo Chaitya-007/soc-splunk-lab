@@ -1,0 +1,20 @@
+title: Burst of Failed Windows Logons From One Source IP
+id: 6f1c1d0e-5b7a-4c1e-9a43-2d1f7b0c8a11
+status: experimental
+description: Ten or more failed logons (4625) from the same source IP within five minutes.
+author: Chaitanya Asole
+date: 2026/11/25
+tags:
+  - attack.credential_access
+  - attack.t1110.001
+logsource:
+  product: windows
+  service: security
+detection:
+  selection:
+    EventID: 4625
+  timeframe: 5m
+  condition: selection | count(IpAddress) by IpAddress >= 10
+falsepositives:
+  - Vulnerability scanners and misconfigured services with an old saved password
+level: medium

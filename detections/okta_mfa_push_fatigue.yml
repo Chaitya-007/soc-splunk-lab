@@ -1,0 +1,20 @@
+title: Repeated Denied Okta MFA Pushes For One User
+id: 4d2a9c77-1e0b-4f35-b6a8-9e5d3c1f7a33
+status: experimental
+description: Three or more denied Okta Verify pushes for one user within ten minutes.
+author: Chaitanya Asole
+date: 2026/11/25
+tags:
+  - attack.credential_access
+  - attack.t1621
+logsource:
+  product: okta
+  service: okta
+detection:
+  selection:
+    eventType: 'user.mfa.okta_verify.deny_push'
+  timeframe: 10m
+  condition: selection | count() by actor.alternateId >= 3
+falsepositives:
+  - A user who keeps tapping the wrong button
+level: medium
