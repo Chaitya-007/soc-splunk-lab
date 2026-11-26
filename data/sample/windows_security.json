@@ -1,0 +1,357 @@
+{"timestamp": "2026-11-20T04:00:04.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.194", "LogonType": 3}
+{"timestamp": "2026-11-20T04:00:54.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.2.159", "LogonType": 3}
+{"timestamp": "2026-11-20T04:00:57.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "meera.s", "IpAddress": "10.10.4.17", "LogonType": 3}
+{"timestamp": "2026-11-20T04:11:05.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.3.176", "LogonType": 3}
+{"timestamp": "2026-11-20T04:11:47.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.4.72", "LogonType": 3}
+{"timestamp": "2026-11-20T04:15:43.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.139", "LogonType": 3}
+{"timestamp": "2026-11-20T04:16:19.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.1.34", "LogonType": 3}
+{"timestamp": "2026-11-20T04:16:36.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "asha.k", "IpAddress": "10.10.1.176", "LogonType": 3}
+{"timestamp": "2026-11-20T04:16:36.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.2.149", "LogonType": 2}
+{"timestamp": "2026-11-20T04:20:43.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.2.119", "LogonType": 3}
+{"timestamp": "2026-11-20T04:23:27.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "meera.s", "IpAddress": "10.10.3.125", "LogonType": 3}
+{"timestamp": "2026-11-20T04:24:07.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.87", "LogonType": 2}
+{"timestamp": "2026-11-20T04:25:08.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.18", "LogonType": 2}
+{"timestamp": "2026-11-20T04:25:47.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.11", "LogonType": 3}
+{"timestamp": "2026-11-20T04:28:49.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T04:29:15.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.4.109", "LogonType": 2}
+{"timestamp": "2026-11-20T04:31:58.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T04:33:34.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.4.27", "LogonType": 2}
+{"timestamp": "2026-11-20T04:37:28.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "rohan.m", "IpAddress": "10.10.2.189", "LogonType": 2}
+{"timestamp": "2026-11-20T04:40:34.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.3.158", "LogonType": 3}
+{"timestamp": "2026-11-20T04:40:48.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T04:41:05.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.1.64", "LogonType": 2}
+{"timestamp": "2026-11-20T04:42:52.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.1.118", "LogonType": 2}
+{"timestamp": "2026-11-20T04:44:34.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T04:45:41.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T04:45:44.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.174", "LogonType": 3}
+{"timestamp": "2026-11-20T04:48:36.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T04:49:03.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T04:49:26.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.153", "LogonType": 2}
+{"timestamp": "2026-11-20T04:50:05.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.2.121", "LogonType": 3}
+{"timestamp": "2026-11-20T04:53:31.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.4.169", "LogonType": 3}
+{"timestamp": "2026-11-20T04:53:42.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "meera.s", "IpAddress": "10.10.1.47", "LogonType": 2}
+{"timestamp": "2026-11-20T04:58:02.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.3.29", "LogonType": 2}
+{"timestamp": "2026-11-20T04:58:49.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T05:01:39.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T05:04:37.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.2.61", "LogonType": 3}
+{"timestamp": "2026-11-20T05:08:40.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.2.190", "LogonType": 3}
+{"timestamp": "2026-11-20T05:12:44.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T05:14:27.000Z", "EventCode": 4625, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.126", "LogonType": 2}
+{"timestamp": "2026-11-20T05:18:27.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.177", "LogonType": 2}
+{"timestamp": "2026-11-20T05:23:09.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.2.36", "LogonType": 3}
+{"timestamp": "2026-11-20T05:23:15.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.71", "LogonType": 3}
+{"timestamp": "2026-11-20T05:24:56.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.4.23", "LogonType": 3}
+{"timestamp": "2026-11-20T05:27:00.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T05:27:13.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T05:30:59.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T05:31:08.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.2.100", "LogonType": 2}
+{"timestamp": "2026-11-20T05:31:32.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.4.65", "LogonType": 2}
+{"timestamp": "2026-11-20T05:32:45.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T05:34:09.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "asha.k", "IpAddress": "10.10.1.50", "LogonType": 3}
+{"timestamp": "2026-11-20T05:38:05.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.1.182", "LogonType": 3}
+{"timestamp": "2026-11-20T05:39:30.000Z", "EventCode": 4625, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.1.41", "LogonType": 2}
+{"timestamp": "2026-11-20T05:43:18.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "dev.p", "IpAddress": "10.10.3.153", "LogonType": 3}
+{"timestamp": "2026-11-20T05:49:15.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.199", "LogonType": 3}
+{"timestamp": "2026-11-20T05:50:31.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.159", "LogonType": 3}
+{"timestamp": "2026-11-20T05:51:28.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T05:53:42.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.150", "LogonType": 2}
+{"timestamp": "2026-11-20T05:55:28.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.184", "LogonType": 2}
+{"timestamp": "2026-11-20T05:58:03.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.148", "LogonType": 2}
+{"timestamp": "2026-11-20T06:00:05.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.96", "LogonType": 3}
+{"timestamp": "2026-11-20T06:04:37.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.154", "LogonType": 3}
+{"timestamp": "2026-11-20T06:05:36.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.2.187", "LogonType": 2}
+{"timestamp": "2026-11-20T06:19:55.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.2.66", "LogonType": 3}
+{"timestamp": "2026-11-20T06:23:07.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.104", "LogonType": 3}
+{"timestamp": "2026-11-20T06:27:24.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.95", "LogonType": 2}
+{"timestamp": "2026-11-20T06:36:55.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.4.190", "LogonType": 3}
+{"timestamp": "2026-11-20T06:38:13.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.3.67", "LogonType": 2}
+{"timestamp": "2026-11-20T06:38:34.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T06:40:19.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.3.53", "LogonType": 3}
+{"timestamp": "2026-11-20T06:44:54.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.79", "LogonType": 3}
+{"timestamp": "2026-11-20T06:46:33.000Z", "EventCode": 4625, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.105", "LogonType": 2}
+{"timestamp": "2026-11-20T06:47:07.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T06:47:22.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.2.114", "LogonType": 2}
+{"timestamp": "2026-11-20T06:49:23.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.181", "LogonType": 3}
+{"timestamp": "2026-11-20T06:50:57.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.13", "LogonType": 3}
+{"timestamp": "2026-11-20T06:51:48.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.3.117", "LogonType": 3}
+{"timestamp": "2026-11-20T06:57:45.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.30", "LogonType": 3}
+{"timestamp": "2026-11-20T07:00:46.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.146", "LogonType": 3}
+{"timestamp": "2026-11-20T07:02:03.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.1.19", "LogonType": 2}
+{"timestamp": "2026-11-20T07:04:07.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "dev.p", "IpAddress": "10.10.1.200", "LogonType": 3}
+{"timestamp": "2026-11-20T07:04:52.000Z", "EventCode": 4625, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.108", "LogonType": 2}
+{"timestamp": "2026-11-20T07:05:57.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.169", "LogonType": 3}
+{"timestamp": "2026-11-20T07:07:12.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.39", "LogonType": 2}
+{"timestamp": "2026-11-20T07:07:22.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T07:07:36.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.1.123", "LogonType": 3}
+{"timestamp": "2026-11-20T07:08:24.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T07:11:02.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.173", "LogonType": 3}
+{"timestamp": "2026-11-20T07:12:31.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.1.190", "LogonType": 3}
+{"timestamp": "2026-11-20T07:13:41.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.91", "LogonType": 2}
+{"timestamp": "2026-11-20T07:15:01.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:04.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:09.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:12.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:17.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:21.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:25.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:29.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:33.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:37.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:40.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:45.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:49.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:53.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:15:56.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:00.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:04.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:08.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:12.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:15.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T07:16:16.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:20.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:25.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:28.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:33.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:36.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:40.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:45.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:48.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:52.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:56.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:16:58.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.2.28", "LogonType": 2}
+{"timestamp": "2026-11-20T07:17:00.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:05.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:08.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:12.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:17.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:20.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:24.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:28.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:33.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:36.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:41.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:45.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:48.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:53.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:17:57.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:00.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:05.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "backup", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:09.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:12.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:16.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:20.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:24.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:28.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:32.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:37.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:41.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:45.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:49.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:52.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "admin", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:18:57.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "administrator", "IpAddress": "203.0.113.45", "LogonType": 3}
+{"timestamp": "2026-11-20T07:19:06.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "admin.svc", "IpAddress": "203.0.113.45", "LogonType": 10}
+{"timestamp": "2026-11-20T07:19:53.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "dev.p", "IpAddress": "10.10.4.44", "LogonType": 2}
+{"timestamp": "2026-11-20T07:20:06.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "admin.svc", "NewProcessName": "C:\\Windows\\System32\\whoami.exe", "CommandLine": "whoami /all", "ParentProcessName": "C:\\Windows\\System32\\cmd.exe"}
+{"timestamp": "2026-11-20T07:21:06.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "admin.svc", "NewProcessName": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "CommandLine": "powershell.exe -nop -w hidden -enc dwBoAG8AYQBtAGkA", "ParentProcessName": "C:\\Windows\\System32\\cmd.exe"}
+{"timestamp": "2026-11-20T07:22:06.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "admin.svc", "NewProcessName": "C:\\Windows\\System32\\net.exe", "CommandLine": "net user helpdesk2 <redacted> /add", "ParentProcessName": "C:\\Windows\\System32\\cmd.exe"}
+{"timestamp": "2026-11-20T07:22:12.000Z", "EventCode": 4720, "Computer": "SRV-FILE-01", "SubjectUserName": "admin.svc", "TargetUserName": "helpdesk2", "IpAddress": "-"}
+{"timestamp": "2026-11-20T07:24:11.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.147", "LogonType": 3}
+{"timestamp": "2026-11-20T07:26:03.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.77", "LogonType": 2}
+{"timestamp": "2026-11-20T07:26:25.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T07:29:54.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T07:31:27.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.2.44", "LogonType": 3}
+{"timestamp": "2026-11-20T07:34:18.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.1.76", "LogonType": 2}
+{"timestamp": "2026-11-20T07:34:47.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.52", "LogonType": 3}
+{"timestamp": "2026-11-20T07:39:08.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T07:39:20.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.181", "LogonType": 2}
+{"timestamp": "2026-11-20T07:40:30.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.134", "LogonType": 2}
+{"timestamp": "2026-11-20T07:47:18.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.2.99", "LogonType": 3}
+{"timestamp": "2026-11-20T07:49:47.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.1.158", "LogonType": 3}
+{"timestamp": "2026-11-20T07:51:03.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.17", "LogonType": 2}
+{"timestamp": "2026-11-20T07:51:51.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.3.168", "LogonType": 2}
+{"timestamp": "2026-11-20T07:52:26.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.61", "LogonType": 2}
+{"timestamp": "2026-11-20T07:53:13.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.2.177", "LogonType": 3}
+{"timestamp": "2026-11-20T07:55:07.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.50", "LogonType": 2}
+{"timestamp": "2026-11-20T07:58:18.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "asha.k", "IpAddress": "10.10.4.182", "LogonType": 2}
+{"timestamp": "2026-11-20T08:00:23.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T08:01:40.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "meera.s", "IpAddress": "10.10.4.55", "LogonType": 2}
+{"timestamp": "2026-11-20T08:02:05.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T08:05:02.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.1.65", "LogonType": 3}
+{"timestamp": "2026-11-20T08:05:23.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.1.191", "LogonType": 2}
+{"timestamp": "2026-11-20T08:08:52.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.119", "LogonType": 3}
+{"timestamp": "2026-11-20T08:09:09.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.2.191", "LogonType": 3}
+{"timestamp": "2026-11-20T08:10:44.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.2.121", "LogonType": 2}
+{"timestamp": "2026-11-20T08:13:16.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T08:15:04.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.3.82", "LogonType": 2}
+{"timestamp": "2026-11-20T08:19:18.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "svc.backup", "IpAddress": "10.10.1.152", "LogonType": 3}
+{"timestamp": "2026-11-20T08:20:50.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.3.33", "LogonType": 2}
+{"timestamp": "2026-11-20T08:20:52.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.1.167", "LogonType": 3}
+{"timestamp": "2026-11-20T08:23:27.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.2.113", "LogonType": 2}
+{"timestamp": "2026-11-20T08:23:40.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.2.119", "LogonType": 3}
+{"timestamp": "2026-11-20T08:23:58.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.198", "LogonType": 3}
+{"timestamp": "2026-11-20T08:25:16.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T08:29:59.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.4.98", "LogonType": 3}
+{"timestamp": "2026-11-20T08:33:56.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.3.87", "LogonType": 2}
+{"timestamp": "2026-11-20T08:37:55.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.92", "LogonType": 3}
+{"timestamp": "2026-11-20T08:45:40.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.3.72", "LogonType": 3}
+{"timestamp": "2026-11-20T08:49:41.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.4.122", "LogonType": 3}
+{"timestamp": "2026-11-20T08:49:48.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T08:50:37.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "asha.k", "IpAddress": "10.10.2.47", "LogonType": 2}
+{"timestamp": "2026-11-20T08:51:43.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.1.164", "LogonType": 2}
+{"timestamp": "2026-11-20T08:55:05.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T08:55:36.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T09:00:10.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T09:02:33.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.1.87", "LogonType": 2}
+{"timestamp": "2026-11-20T09:03:39.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.56", "LogonType": 3}
+{"timestamp": "2026-11-20T09:03:47.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.4.43", "LogonType": 3}
+{"timestamp": "2026-11-20T09:05:28.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.182", "LogonType": 3}
+{"timestamp": "2026-11-20T09:05:40.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.116", "LogonType": 2}
+{"timestamp": "2026-11-20T09:09:56.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.149", "LogonType": 2}
+{"timestamp": "2026-11-20T09:13:03.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.1.80", "LogonType": 3}
+{"timestamp": "2026-11-20T09:19:48.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.2.50", "LogonType": 3}
+{"timestamp": "2026-11-20T09:21:02.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.4.69", "LogonType": 3}
+{"timestamp": "2026-11-20T09:23:58.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "dev.p", "IpAddress": "10.10.3.149", "LogonType": 3}
+{"timestamp": "2026-11-20T09:25:23.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.77", "LogonType": 2}
+{"timestamp": "2026-11-20T09:30:31.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.2.150", "LogonType": 3}
+{"timestamp": "2026-11-20T09:30:54.000Z", "EventCode": 4625, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.182", "LogonType": 2}
+{"timestamp": "2026-11-20T09:31:10.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.2.119", "LogonType": 3}
+{"timestamp": "2026-11-20T09:31:55.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.200", "LogonType": 3}
+{"timestamp": "2026-11-20T09:38:16.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T09:38:50.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.47", "LogonType": 2}
+{"timestamp": "2026-11-20T09:40:54.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.1.99", "LogonType": 2}
+{"timestamp": "2026-11-20T09:41:21.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.4.143", "LogonType": 2}
+{"timestamp": "2026-11-20T09:43:25.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.73", "LogonType": 3}
+{"timestamp": "2026-11-20T09:46:29.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "asha.k", "IpAddress": "10.10.4.68", "LogonType": 3}
+{"timestamp": "2026-11-20T09:47:50.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.2.126", "LogonType": 2}
+{"timestamp": "2026-11-20T09:50:41.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.147", "LogonType": 2}
+{"timestamp": "2026-11-20T09:51:50.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.3.48", "LogonType": 2}
+{"timestamp": "2026-11-20T09:55:39.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.200", "LogonType": 3}
+{"timestamp": "2026-11-20T09:56:29.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "meera.s", "IpAddress": "10.10.3.166", "LogonType": 3}
+{"timestamp": "2026-11-20T09:56:40.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T10:00:14.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T10:03:50.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.3.199", "LogonType": 2}
+{"timestamp": "2026-11-20T10:06:26.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T10:07:10.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T10:10:24.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.1.160", "LogonType": 2}
+{"timestamp": "2026-11-20T10:10:39.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.95", "LogonType": 3}
+{"timestamp": "2026-11-20T10:15:49.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.1.88", "LogonType": 2}
+{"timestamp": "2026-11-20T10:16:09.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.153", "LogonType": 3}
+{"timestamp": "2026-11-20T10:16:36.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.1.137", "LogonType": 3}
+{"timestamp": "2026-11-20T10:16:58.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.4.16", "LogonType": 3}
+{"timestamp": "2026-11-20T10:19:18.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.17", "LogonType": 2}
+{"timestamp": "2026-11-20T10:20:15.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.1.131", "LogonType": 3}
+{"timestamp": "2026-11-20T10:20:32.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.1.15", "LogonType": 3}
+{"timestamp": "2026-11-20T10:20:55.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "meera.s", "IpAddress": "10.10.4.188", "LogonType": 2}
+{"timestamp": "2026-11-20T10:20:57.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.38", "LogonType": 3}
+{"timestamp": "2026-11-20T10:21:53.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T10:21:57.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "dev.p", "IpAddress": "10.10.3.86", "LogonType": 2}
+{"timestamp": "2026-11-20T10:22:34.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T10:24:23.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T10:25:13.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.120", "LogonType": 2}
+{"timestamp": "2026-11-20T10:36:50.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.3.100", "LogonType": 3}
+{"timestamp": "2026-11-20T10:38:14.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.1.127", "LogonType": 2}
+{"timestamp": "2026-11-20T10:40:48.000Z", "EventCode": 4625, "Computer": "WS-PUNE-03", "TargetUserName": "meera.s", "IpAddress": "10.10.4.33", "LogonType": 2}
+{"timestamp": "2026-11-20T10:42:35.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.178", "LogonType": 3}
+{"timestamp": "2026-11-20T10:43:22.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.1.70", "LogonType": 3}
+{"timestamp": "2026-11-20T10:43:56.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.4.100", "LogonType": 2}
+{"timestamp": "2026-11-20T10:45:45.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.40", "LogonType": 3}
+{"timestamp": "2026-11-20T10:47:26.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.1.75", "LogonType": 3}
+{"timestamp": "2026-11-20T10:48:17.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.50", "LogonType": 2}
+{"timestamp": "2026-11-20T10:48:55.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.90", "LogonType": 2}
+{"timestamp": "2026-11-20T10:50:30.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.161", "LogonType": 2}
+{"timestamp": "2026-11-20T10:51:43.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T10:53:24.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.76", "LogonType": 3}
+{"timestamp": "2026-11-20T10:54:10.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.1.147", "LogonType": 2}
+{"timestamp": "2026-11-20T10:55:33.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.4.88", "LogonType": 3}
+{"timestamp": "2026-11-20T10:56:11.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T10:56:43.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.185", "LogonType": 2}
+{"timestamp": "2026-11-20T10:58:04.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.4.19", "LogonType": 3}
+{"timestamp": "2026-11-20T11:02:33.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T11:05:01.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.1.159", "LogonType": 2}
+{"timestamp": "2026-11-20T11:05:06.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "meera.s", "IpAddress": "10.10.1.28", "LogonType": 3}
+{"timestamp": "2026-11-20T11:05:15.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.30", "LogonType": 2}
+{"timestamp": "2026-11-20T11:06:16.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.111", "LogonType": 2}
+{"timestamp": "2026-11-20T11:06:50.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.2.169", "LogonType": 3}
+{"timestamp": "2026-11-20T11:07:20.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.1.169", "LogonType": 2}
+{"timestamp": "2026-11-20T11:08:00.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.85", "LogonType": 3}
+{"timestamp": "2026-11-20T11:08:58.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.2.69", "LogonType": 2}
+{"timestamp": "2026-11-20T11:09:56.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "asha.k", "IpAddress": "10.10.2.137", "LogonType": 2}
+{"timestamp": "2026-11-20T11:15:34.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.3.171", "LogonType": 2}
+{"timestamp": "2026-11-20T11:18:18.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.2.57", "LogonType": 3}
+{"timestamp": "2026-11-20T11:19:57.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T11:21:57.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.2.48", "LogonType": 2}
+{"timestamp": "2026-11-20T11:24:12.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.136", "LogonType": 3}
+{"timestamp": "2026-11-20T11:25:02.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T11:25:52.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.4.142", "LogonType": 2}
+{"timestamp": "2026-11-20T11:25:57.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "meera.s", "IpAddress": "10.10.2.46", "LogonType": 3}
+{"timestamp": "2026-11-20T11:27:34.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.141", "LogonType": 3}
+{"timestamp": "2026-11-20T11:27:35.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T11:31:05.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.4.192", "LogonType": 3}
+{"timestamp": "2026-11-20T11:34:53.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T11:36:51.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T11:36:55.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.4.172", "LogonType": 3}
+{"timestamp": "2026-11-20T11:37:25.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T11:38:19.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.190", "LogonType": 2}
+{"timestamp": "2026-11-20T11:39:28.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.158", "LogonType": 3}
+{"timestamp": "2026-11-20T11:45:11.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.4.16", "LogonType": 3}
+{"timestamp": "2026-11-20T11:45:49.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "rohan.m", "IpAddress": "10.10.2.117", "LogonType": 2}
+{"timestamp": "2026-11-20T11:47:07.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T11:48:28.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.122", "LogonType": 3}
+{"timestamp": "2026-11-20T11:50:59.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.3.171", "LogonType": 2}
+{"timestamp": "2026-11-20T11:52:20.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.4.67", "LogonType": 2}
+{"timestamp": "2026-11-20T11:56:21.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "meera.s", "IpAddress": "10.10.2.97", "LogonType": 2}
+{"timestamp": "2026-11-20T11:56:22.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.2.153", "LogonType": 2}
+{"timestamp": "2026-11-20T11:56:49.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.19", "LogonType": 2}
+{"timestamp": "2026-11-20T11:56:59.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.53", "LogonType": 3}
+{"timestamp": "2026-11-20T12:02:08.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.144", "LogonType": 2}
+{"timestamp": "2026-11-20T12:02:23.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.1.28", "LogonType": 3}
+{"timestamp": "2026-11-20T12:05:30.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.146", "LogonType": 3}
+{"timestamp": "2026-11-20T12:05:36.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.3.53", "LogonType": 2}
+{"timestamp": "2026-11-20T12:07:52.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.1.97", "LogonType": 2}
+{"timestamp": "2026-11-20T12:13:32.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T12:20:42.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.109", "LogonType": 2}
+{"timestamp": "2026-11-20T12:21:00.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.2.59", "LogonType": 2}
+{"timestamp": "2026-11-20T12:24:45.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.4.45", "LogonType": 2}
+{"timestamp": "2026-11-20T12:29:03.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "svc.backup", "IpAddress": "10.10.2.145", "LogonType": 2}
+{"timestamp": "2026-11-20T12:35:18.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.39", "LogonType": 2}
+{"timestamp": "2026-11-20T12:35:19.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.158", "LogonType": 2}
+{"timestamp": "2026-11-20T12:39:43.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "rohan.m", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T12:42:58.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.2.184", "LogonType": 2}
+{"timestamp": "2026-11-20T12:43:40.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.1.169", "LogonType": 2}
+{"timestamp": "2026-11-20T12:43:41.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.1.92", "LogonType": 3}
+{"timestamp": "2026-11-20T12:45:38.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.199", "LogonType": 2}
+{"timestamp": "2026-11-20T12:51:12.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.4.161", "LogonType": 3}
+{"timestamp": "2026-11-20T12:51:55.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.142", "LogonType": 2}
+{"timestamp": "2026-11-20T12:55:53.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T13:00:04.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.4.198", "LogonType": 3}
+{"timestamp": "2026-11-20T13:00:14.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "asha.k", "IpAddress": "10.10.3.190", "LogonType": 3}
+{"timestamp": "2026-11-20T13:01:33.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.3.10", "LogonType": 2}
+{"timestamp": "2026-11-20T13:03:24.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.3.56", "LogonType": 3}
+{"timestamp": "2026-11-20T13:06:12.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.4.68", "LogonType": 3}
+{"timestamp": "2026-11-20T13:11:49.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T13:15:10.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.51", "LogonType": 3}
+{"timestamp": "2026-11-20T13:16:11.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "dev.p", "IpAddress": "10.10.2.79", "LogonType": 2}
+{"timestamp": "2026-11-20T13:17:21.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.174", "LogonType": 3}
+{"timestamp": "2026-11-20T13:17:40.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.69", "LogonType": 2}
+{"timestamp": "2026-11-20T13:18:17.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.2.51", "LogonType": 2}
+{"timestamp": "2026-11-20T13:19:02.000Z", "EventCode": 4625, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.10", "LogonType": 2}
+{"timestamp": "2026-11-20T13:20:36.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.20", "LogonType": 2}
+{"timestamp": "2026-11-20T13:21:03.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T13:22:58.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.4.11", "LogonType": 2}
+{"timestamp": "2026-11-20T13:23:58.000Z", "EventCode": 4625, "Computer": "WS-PUNE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.172", "LogonType": 2}
+{"timestamp": "2026-11-20T13:26:29.000Z", "EventCode": 4688, "Computer": "WS-PUNE-03", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T13:30:23.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T13:31:00.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "dev.p", "IpAddress": "10.10.3.107", "LogonType": 2}
+{"timestamp": "2026-11-20T13:33:45.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.1.140", "LogonType": 2}
+{"timestamp": "2026-11-20T13:34:17.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "asha.k", "NewProcessName": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "CommandLine": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T13:34:32.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "svc.backup", "IpAddress": "10.10.4.164", "LogonType": 3}
+{"timestamp": "2026-11-20T13:35:04.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.1.116", "LogonType": 3}
+{"timestamp": "2026-11-20T13:37:30.000Z", "EventCode": 4624, "Computer": "WS-PUNE-01", "TargetUserName": "asha.k", "IpAddress": "10.10.2.60", "LogonType": 2}
+{"timestamp": "2026-11-20T13:38:02.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "svc.backup", "IpAddress": "10.10.3.200", "LogonType": 3}
+{"timestamp": "2026-11-20T13:39:24.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "rohan.m", "IpAddress": "10.10.3.70", "LogonType": 3}
+{"timestamp": "2026-11-20T13:47:23.000Z", "EventCode": 4688, "Computer": "WS-PUNE-01", "SubjectUserName": "dev.p", "NewProcessName": "C:\\Windows\\explorer.exe", "CommandLine": "\"C:\\Windows\\explorer.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T13:50:53.000Z", "EventCode": 4688, "Computer": "SRV-FILE-01", "SubjectUserName": "svc.backup", "NewProcessName": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE", "CommandLine": "\"C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T13:55:11.000Z", "EventCode": 4624, "Computer": "WS-PUNE-02", "TargetUserName": "dev.p", "IpAddress": "10.10.4.109", "LogonType": 2}
+{"timestamp": "2026-11-20T13:55:13.000Z", "EventCode": 4624, "Computer": "WS-PUNE-03", "TargetUserName": "rohan.m", "IpAddress": "10.10.4.152", "LogonType": 3}
+{"timestamp": "2026-11-20T13:57:08.000Z", "EventCode": 4688, "Computer": "WS-PUNE-02", "SubjectUserName": "meera.s", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "\"C:\\Windows\\System32\\notepad.exe\"", "ParentProcessName": "C:\\Windows\\explorer.exe"}
+{"timestamp": "2026-11-20T13:58:03.000Z", "EventCode": 4624, "Computer": "SRV-FILE-01", "TargetUserName": "meera.s", "IpAddress": "10.10.3.16", "LogonType": 3}
