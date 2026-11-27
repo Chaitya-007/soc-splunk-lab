@@ -66,4 +66,4 @@ Output of the last command on the included data:
 
 ## Author
 
-Chaitanya Asole. See `resume/`.
+Chaitanya Asole.
