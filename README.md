@@ -53,6 +53,31 @@ Output of the last command on the included data:
 3. Add the three files from `data/sample/` (Settings > Add Data > Upload) with sourcetypes `windows:security`, `okta:system` and `aws:cloudtrail`, index `soc_lab`.
 4. Check that event times show **2026-11-20**, then run the searches in `spl/queries.spl` over "All time".
 
+## Splunk results
+
+Screenshots from my own Splunk run on the sample data (time range: All time).
+
+**1. Failed logons by source IP**
+![Failed logons by source IP](screenshots/01_failed_logons_by_ip.png)
+
+**2. Successful logon after repeated failures**
+![Success after failures](screenshots/02_success_after_failures.png)
+
+**3. Encoded PowerShell**
+![Encoded PowerShell](screenshots/03_encoded_powershell.png)
+
+**4. Failed logons over time**
+![Failed logons timechart](screenshots/04_failed_logons_timechart.png)
+
+**5. Okta MFA push fatigue**
+![MFA push fatigue](screenshots/05_mfa_push_fatigue.png)
+
+**6. Okta impossible travel**
+![Okta impossible travel](screenshots/06_okta_impossible_travel.png)
+
+**7. AWS access key used from more than one IP**
+![AWS key from multiple IPs](screenshots/07_aws_key_multiple_ips.png)
+
 ## How the automation works
 
 `run_triage.py` runs each detection, enriches every source IP (internal or external, listed in the blocklist or not), adds MITRE tags and recommended response steps, and writes one summary. The idea is the same as a SOAR playbook in miniature: do the repeated lookups automatically so the analyst only decides.
