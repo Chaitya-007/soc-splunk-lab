@@ -8,7 +8,7 @@ A small, reproducible SOC project. It generates **synthetic** Windows, Okta and 
 
 | Folder | What it holds |
 |---|---|
-| `data/generate_logs.py` | Creates the three log files in `data/sample/` (fixed random seed, so output is repeatable) |
+| `data/generate_logs.py` | Creates the three log files in `data/sample/` |
 | `data/threat_intel/blocklist.csv` | A tiny fictional threat-intel list used for enrichment |
 | `spl/queries.spl` | 7 SPL searches, each with a one-line "why" |
 | `splunk/props.conf` | Source type settings so Splunk reads timestamps and JSON correctly |
