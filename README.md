@@ -16,7 +16,6 @@ A small, reproducible SOC project. It generates **synthetic** Windows, Okta and 
 | `automation/` | Python detections, IP enrichment and `run_triage.py`, which chains them and writes a report |
 | `reports/` | Generated `triage_summary.md` and `alerts.json`, plus a written investigation report |
 | `tests/` | Unit tests that prove each detection fires on the attack and not on normal noise |
-| `resume/` | My resume |
 
 ## The four scenarios
 
